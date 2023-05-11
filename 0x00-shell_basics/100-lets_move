@@ -1,0 +1,6 @@
+#!/bin/bash
+mv [[:upper:]]* /tmp/u
+<<<<<<< HEAD
+
+=======
+>>>>>>> 008b173336fdc7997c090d4a6e93cf9ce8e71b35
